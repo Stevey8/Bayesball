@@ -18,7 +18,7 @@ This notebook walks through:
 
 For a high-level overview of the project, refer to our Google Slides presentation:
 
-🔗 [Bayesball Presentation Slides](https://docs.google.com/presentation/d/1jtaHKKG0b7Hn-kyGy6vj9gK6jn6yI7PAgAn8NiYXU9U/edit?slide=id.g369e16d386a_0_3#slide=id.g369e16d386a_0_3)
+🔗 [Bayesball Presentation Slides](https://docs.google.com/presentation/d/1jtaHKKG0b7Hn-kyGy6vj9gK6jn6yI7PAgAn8NiYXU9U/edit?slide=id.p#slide=id.p)
 
 ## Authors & Acknowledgments
 
